@@ -1,0 +1,9 @@
+Responsive Web Design - future
+Sliding Webpage Panels - Pending investigation
+------------------------------------------------------------------------------------------------------------------------------------------------
+Infinite Scrolling - Go ahead - Start points
+Fixed Header Bars - Go ahead - Start points
+Modal popup for articles - Go ahead
+Social Sign on - Go ahead
+Mobile app link on sites - Go ahead
+Bookmarking (Read later) - 
